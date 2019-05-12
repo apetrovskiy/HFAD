@@ -6,8 +6,6 @@ import android.view.View;
 import android.widget.Spinner;
 import android.widget.TextView;
 import com.hfad.beeradviser.BeerExpert;
-
-import java.util.ArrayList;
 import java.util.List;
 
 public class FindBeerActivity extends AppCompatActivity {
