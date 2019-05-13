@@ -1,9 +1,9 @@
 package com.hfad.mymessenger;
 
-import android.support.v7.app.AppCompatActivity;
+import android.app.Activity;
 import android.os.Bundle;
 
-public class ReceiveMessageActivity extends AppCompatActivity {
+public class ReceiveMessageActivity extends Activity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
